@@ -1,12 +1,12 @@
-package Arrays;
+package TwoPointers;
 
 import java.util.ArrayList;
 
 public class AddTwoArrays {
     public static void main(String[] args) {
 
-        int []arr1 = {9,9,9};
-        int []arr2 ={9,9};
+        int []arr1 = {4,3,7};
+        int []arr2 ={1,2,5};
 
         System.out.println(addArray(arr1,arr2));
 
